@@ -8,8 +8,9 @@ The TrueJ repository is at
 
 ## The Executable Specifications
 
-Here are recent test results from the executable specifications for TrueJ, to give you an idea of the direction that the 
-project is headed. I will update this from time to time as we make significant progress. Unfortunately, the formatting for the tests is hard to read; it is the default that is generated from Cucumber, and we'll need to clean that up later. There is a review of other related work and references at the bottom of the Value Names Feature page.
+The best way to learn the TrueJ language is the executable specifications in the [Cucumber/Features](https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features) folder. The top level folders begin with two alphabetical characters putting them in a suggested reading order.
+
+Unfortunately, we'll need to do some work to make the test results more readable because their formatting is the default generated from Cucumber.
 
 ### Results from a Recent Executable Specification Test
 [Value Names](https://variable-value.github.io/ValueName/)
