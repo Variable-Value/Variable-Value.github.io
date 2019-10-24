@@ -16,4 +16,4 @@ Unfortunately, we'll need to do some work to make the test results more readable
 [Value Names](https://variable-value.github.io/ValueName/)
 
 ### Results from a Recent Test of the Prover's Executable Specification
-[Prover Test Results](https://variable-value.github.io/target/)
+[Prover Test Results](https://variable-value.github.io/Prover/)
