@@ -8,7 +8,7 @@ The TrueJ repository is at
 
 ## The Executable Specifications
 
-The best way to learn the TrueJ language is the executable specifications in the [Cucumber/Features](https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features) folder. The top level folders begin with two alphabetical characters putting them in a suggested reading order.
+The best way to learn the TrueJ language is the executable specifications in the [Cucumber/Features](<https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features/Spec%20Features>) folder. The top level folders begin with two alphabetical characters putting them in a suggested reading order.
 
 Unfortunately, we'll need to do some work to make the test results more readable because their formatting is the default generated from Cucumber.
 
