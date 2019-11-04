@@ -13,8 +13,8 @@ The best way to learn the TrueJ language is the executable specifications in the
 Unfortunately, the Cucumber testing tool does not generate well formatted test results, but we include them here for you to take a look.
 
 ### Results from a Recent Executable Specification Test
-[Value Names](https://variable-value.github.io/ValueName/)
-[If Statements](https://variable-value.github.io/IfStatement/)
+<p>[Value Names](https://variable-value.github.io/ValueName/)
+<p>[If Statements](https://variable-value.github.io/IfStatement/)
 
 ### Results from a Recent Test of the Prover's Executable Specification
-[Prover Test Results](https://variable-value.github.io/Prover/)
+<p>[Prover Test Results](https://variable-value.github.io/Prover/)
