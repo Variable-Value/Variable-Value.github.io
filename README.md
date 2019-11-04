@@ -14,11 +14,11 @@ Unfortunately, the Cucumber testing tool does not generate well formatted test r
 
 ### Results from a Recent Executable Specification Test
 
-[Value Names](https://variable-value.github.io/ValueName/)
+[Value Names](https://variable-value.github.io/ValueName/) (see [Value Names Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/a_valueNames.feature) for a more readable version)
 
-[If Statements](https://variable-value.github.io/IfStatement/)
+[If Statements](https://variable-value.github.io/IfStatement/) (see [If Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/b_IfStatement.feature) for a more readable version)
 
 
 ### Results from a Recent Test of the Prover's Executable Specification
 
-[Prover Test Results](https://variable-value.github.io/Prover/)
+[Prover Test Results](https://variable-value.github.io/Prover/) (see [Proof Features](https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/ProofTestFeatures) for a more readable version, but readability is a work in progress)
