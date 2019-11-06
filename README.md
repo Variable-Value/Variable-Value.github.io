@@ -14,9 +14,11 @@ Unfortunately, the Cucumber testing tool does not generate well formatted test r
 
 ### Results from a Recent Executable Specification Test
 
-[Value Names](https://variable-value.github.io/ValueName/) (see [Value Names Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/a_valueNames.feature) for a more readable version)
+[Value Names](https://variable-value.github.io/ValueName/) (see the [Value Names Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/a_valueNames.feature) for a more readable version)
 
-[If Statements](https://variable-value.github.io/IfStatement/) (see [If Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/b_IfStatement.feature) for a more readable version)
+[If Statements](https://variable-value.github.io/IfStatement/) (see the [If Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/b_IfStatement.feature) for a more readable version)
+
+[Block Statements](https://variable-value.github.io/BlocksFeature/) (see the [Block Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/c_block.feature) for a more readable version)
 
 
 ### Results from a Recent Test of the Prover's Executable Specification
