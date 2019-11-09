@@ -1,5 +1,6 @@
 # The Variable-Value approach to Programming
-Using variables for changing state <br> and values for understanding state.
+Using variables for changing state 
+<br> and values for understanding state
 
 # The TrueJ Project
 
