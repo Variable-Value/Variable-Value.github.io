@@ -1,5 +1,4 @@
-# The Variable-Value approach to Programming
-# And The TrueJ Project
+# The Variable-Value approach to Programming <br> And The TrueJ Project
 
 The TrueJ programming language is a Java-like language that is being developed to serve as an example of Variable-Value programming. The code repository is at
 <br> <https://github.com/Variable-Value/TrueJ>
