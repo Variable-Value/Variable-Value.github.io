@@ -20,6 +20,8 @@ Unfortunately, the Cucumber testing tool does not generate well formatted test r
 
 [Block Statements](https://variable-value.github.io/BlocksFeature/) (see the [Block Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/c_block.feature) for a more readable version)
 
+[Means Statements](https://variable-value.github.io/ExecutableMeansFeature/) (see the [Means Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/e_status.feature) for a more readable version)
+
 
 ### Results from a Recent Test of the Prover's Executable Specification
 
