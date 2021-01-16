@@ -1,16 +1,13 @@
-# The Variable-Value approach to Programming
-The Variable-Value approach uses variables for changing state and values for understanding states.
+# The Variable-Value approach to Programming <br> And The TrueJ Project
 
-# The TrueJ Project
-
-The TrueJ repository is at
-<https://github.com/Variable-Value/TrueJ>
+The TrueJ programming language is a Java-like language that is being developed to serve as an example of Variable-Value programming. The code repository is at
+<br> <https://github.com/Variable-Value/TrueJ>
 
 ## The Executable Specifications
 
-The best way to learn the TrueJ language is the executable specifications in the [Cucumber/Features](<https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features/Spec%20Features>) folder. The top level folders begin with two alphabetical characters putting them in a suggested reading order.
+One way to learn the TrueJ language is with the executable specifications in the [Cucumber/Features](<https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features/Spec%20Features>) folder. The top level folders begin with an alphabetical character that puts them in a suggested reading order.
 
-Unfortunately, the Cucumber testing tool does not generate well formatted test results, but we include them here for you to take a look.
+The executable specification is being written in Cucumber, but unfortunately the Cucumber testing tool does not generate well formatted test results. Nevertheless, here they are for you to take a look.
 
 ### Results from a Recent Executable Specification Test
 
@@ -19,6 +16,8 @@ Unfortunately, the Cucumber testing tool does not generate well formatted test r
 [If Statements](https://variable-value.github.io/IfStatement/) (see the [If Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/b_IfStatement.feature) for a more readable version)
 
 [Block Statements](https://variable-value.github.io/BlocksFeature/) (see the [Block Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/c_block.feature) for a more readable version)
+
+[Means Statements](https://variable-value.github.io/ExecutableMeansFeature/) (see the [Means Statement Feature](https://github.com/Variable-Value/TrueJ/blob/master/Cucumber/Features/Spec%20Features/e_status.feature) for a more readable version)
 
 
 ### Results from a Recent Test of the Prover's Executable Specification
