@@ -4,7 +4,7 @@ The TrueJ programming language is a Java-like language that is being developed t
 
 ### Results from a Recent Test of the Specifications
 
-One way to learn the TrueJ language is by reading the [results from the testable specifications](https://variable-value.github.io/TestHtml/). These are formatted for readability, except for the very first step, which are mangled file names. Look at the end of the lines to see the name of the features and click anywhere on the line to open the results. The names that begin with a single alphabetic character, like `.../a_valueNames.feature`, give a good understanding of the language in a suggested reading order.
+One way to learn the TrueJ language is by reading the [results from the testable specifications](https://variable-value.github.io/TestResults/ReadyFeatures.html). These are formatted for readability, except for the very first step, which are mangled file names. Look at the end of the lines to see the name of the features and click anywhere on the line to open the results. The names that begin with a single alphabetic character, like `.../a_valueNames.feature`, give a good understanding of the language in a suggested reading order.
 
 The Cucumber code for the [testable specifications](<https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/Features/Spec%20Features>) is also available.
 
