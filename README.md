@@ -23,6 +23,6 @@ additional claims or specifications in the code. Another way to think of it is t
 compiler proves that these factual claims about the program's data or specifications of the state
 are true when the code execution reaches them. The prover that is used in the compiler also has
 testable specifications. However, readability is a work in progress for these [test
-results](https://variable-value.github.io/Prover/). The Cucumber code for the [prover's testable
-specifications](https://github.com/Variable-Value/TrueJ/tree/master/Cucumber/ProofTestFeatures) are
+results](https://variable-value.github.io/TestResults/ProverFeatures.html). The Cucumber code for the [prover's testable
+specifications](https://github.com/Variable-Value/TrueJ/tree/main/src/test/resources/ProofTestFeatures) are
 also available.
